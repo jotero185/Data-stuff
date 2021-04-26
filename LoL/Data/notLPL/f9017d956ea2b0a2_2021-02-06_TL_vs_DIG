@@ -1,0 +1,11 @@
+League,team,date,min,role,name,hero,win,kills,deaths,assists,goldEarned,totalMinionsKilled,neutralMinionsKilled,neutralMinionsKilledTeamJungle,neutralMinionsKilledEnemyJungle,totalDamageDealtToChampions,physicalDamageDealtToChampions,magicDamageDealtToChampions,totalHeal,totalDamageTaken,physicalDamageTaken,magicalDamageTaken,wardsPlaced,wardsKilled,visionWardsBoughtInGame
+LCS,TL,2021-02-06,27.7,Top,Alphari,58,1,4,1,3,13781,270,12,1,4,13782,12741,849,8013,19737,12379,6871,14,9,5
+LCS,TL,2021-02-06,27.7,Jungle,Santorin,77,1,2,1,4,9934,14,165,121,8,4961,1927,2514,12813,22920,18273,4120,8,8,8
+LCS,TL,2021-02-06,27.7,Mid,Jensen,61,1,1,1,5,11055,260,20,12,4,9758,553,9205,1224,7223,2703,4441,10,7,4
+LCS,TL,2021-02-06,27.7,Bot,Tactical,21,1,2,2,4,11227,249,4,4,0,8743,8102,521,2869,8486,5127,3070,14,6,6
+LCS,TL,2021-02-06,27.7,Support,CoreJJ,412,1,0,1,7,6760,35,0,0,0,2323,651,1547,753,5177,2662,2514,30,11,10
+LCS,DIG,2021-02-06,27.7,Top,FakeGod,79,0,1,0,5,8755,191,4,4,0,9922,1191,8730,9515,17058,12269,4447,13,2,6
+LCS,DIG,2021-02-06,27.7,Jungle,Dardoch,36,0,3,2,0,9309,14,166,128,0,5476,1122,4054,23611,21265,14771,6225,9,10,10
+LCS,DIG,2021-02-06,27.7,Mid,Soligo,268,0,0,3,0,8728,220,4,4,0,4004,0,4004,388,8081,5032,2853,12,5,4
+LCS,DIG,2021-02-06,27.7,Bot,Neo,498,0,2,2,3,9899,229,14,13,0,12141,11245,0,1819,9405,7359,2031,15,8,8
+LCS,DIG,2021-02-06,27.7,Support,aphromoo,53,0,0,2,3,5551,31,0,0,0,1622,563,873,347,7312,5631,1547,31,8,14
